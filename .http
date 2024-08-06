@@ -1,0 +1,5 @@
+###
+GET http://localhost:8080/api/cut?destination=https://forums.docker.com/t/creating-a-multi-stage-docker-docker-node-gradle-and-java/136789/2&alias=sampleAlias&ttl=2024-08-06T18:30:00
+
+###
+GET http://localhost:8080/api/sampleAlias
